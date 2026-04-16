@@ -1,3 +1,6 @@
+<img width="2400" height="1784" alt="Gemini_Generated_Image_5nc8ia5nc8ia5nc8" src="https://github.com/user-attachments/assets/5af58446-bf99-4ee1-9d89-09b34dac4c06" />
+
+
 # NeuralBridge AI — Marketing Performance Analysis
 
 ## Problem
